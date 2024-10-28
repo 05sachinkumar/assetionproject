@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-27T21:33:34 IST" name="Default suite" finished-at="2024-10-27T21:33:44 IST" duration-ms="9678">
+    <groups>
+    </groups>
+    <test started-at="2024-10-27T21:33:34 IST" name="Default test" finished-at="2024-10-27T21:33:44 IST" duration-ms="9678">
+      <class name="testingbaba_test.CheckboxTest">
+        <test-method is-config="true" signature="getLaunchUrl_testingbaba()[pri:0, instance:testingbaba_test.CheckboxTest@4082ba93]" started-at="2024-10-27T21:33:34 IST" name="getLaunchUrl_testingbaba" finished-at="2024-10-27T21:33:40 IST" duration-ms="5554" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getLaunchUrl_testingbaba -->
+        <test-method signature="getTitle_testingbaba()[pri:1, instance:testingbaba_test.CheckboxTest@4082ba93]" started-at="2024-10-27T21:33:40 IST" name="getTitle_testingbaba" finished-at="2024-10-27T21:33:40 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTitle_testingbaba -->
+        <test-method signature="getclosebtn_testing()[pri:2, instance:testingbaba_test.CheckboxTest@4082ba93]" started-at="2024-10-27T21:33:40 IST" name="getclosebtn_testing" finished-at="2024-10-27T21:33:40 IST" duration-ms="128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getclosebtn_testing -->
+        <test-method signature="practicebtn_testing()[pri:3, instance:testingbaba_test.CheckboxTest@4082ba93]" started-at="2024-10-27T21:33:40 IST" name="practicebtn_testing" finished-at="2024-10-27T21:33:42 IST" duration-ms="1891" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- practicebtn_testing -->
+        <test-method signature="getelements_testing()[pri:4, instance:testingbaba_test.CheckboxTest@4082ba93]" started-at="2024-10-27T21:33:42 IST" name="getelements_testing" finished-at="2024-10-27T21:33:42 IST" duration-ms="98" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getelements_testing -->
+        <test-method signature="getcheckbx_testingbaba()[pri:5, instance:testingbaba_test.CheckboxTest@4082ba93]" started-at="2024-10-27T21:33:42 IST" name="getcheckbx_testingbaba" finished-at="2024-10-27T21:33:42 IST" duration-ms="121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getcheckbx_testingbaba -->
+        <test-method signature="getcheck_testingbaba()[pri:6, instance:testingbaba_test.CheckboxTest@4082ba93]" started-at="2024-10-27T21:33:42 IST" name="getcheck_testingbaba" finished-at="2024-10-27T21:33:44 IST" duration-ms="1761" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getcheck_testingbaba -->
+      </class> <!-- testingbaba_test.CheckboxTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
